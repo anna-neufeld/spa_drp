@@ -1,9 +1,9 @@
 ###########
 # site.url, site.title
 
-title: 'Bryan D Martin'
+title: 'SPA Directed Reading Program'
 
-## note: 
+## note:
 #  use site.path in your templates to make it work for both protocols e.g. http and https
 #  use site.url only inside the web feed template (e.g. requires full url incl. protocol)
 path: ""
@@ -27,4 +27,3 @@ exclude:
 
 safe: true
 lsi: false
-
